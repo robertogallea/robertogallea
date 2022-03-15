@@ -25,6 +25,7 @@ I am currently employed at the University of Palermo, Italy.
 
 Follow me on:
 Linkedin: https://www.linkedin.com/in/robertogallea/
+
 Twitter: https://twitter.com/robgallea
 
 
