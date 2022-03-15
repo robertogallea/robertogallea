@@ -24,8 +24,7 @@ I am currently employed at the University of Palermo, Italy.
 **Framework/Libraries** : Laravel, Vue.js, React.js, Livewire, Flask
 
 Follow me on:
-Linkedin: https://www.linkedin.com/in/robertogallea/
-
-Twitter: https://twitter.com/robgallea
+- Linkedin: https://www.linkedin.com/in/robertogallea/
+- Twitter: https://twitter.com/robgallea
 
 
