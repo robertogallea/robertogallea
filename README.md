@@ -32,6 +32,7 @@ List of my talks (Italian language):
 - [Laravel smart APIs: filtrare dinamicamente modelli @Laravel Italia Live](https://www.youtube.com/watch?v=iMKObhTMKCk&t=6s)
 - [Alexa Skill Development con Laravel @Laravel Italia Live](https://www.youtube.com/watch?v=v0H85-tFA5k)
 - [Design Patterns: Head-first vs emergent @phpdaypug21](https://www.youtube.com/watch?v=Q9RRVOJO5Lg)
+- [Papà come nascono i Service Container? @laravelday2021](https://www.youtube.com/watch?v=HyOnd8wSBFg)
 
 Follow me on:
 - My website: https://www.robertogallea.com
