@@ -21,7 +21,7 @@ I am currently employed at the University of Palermo, Italy.
 
 **Language/Runtime** : PHP, Python, Java, R, C/C++, ...
 
-**Framework/Libraries** : Laravel, Vue.js, React.js, Livewire, Flask
+**Framework/Libraries** : Laravel, Symfony, Vue.js, React.js, Livewire, Flask, Django
 
 I contribute to the OS community with some repositories and by giving talks and writing blog posts on my website and medium.
 
