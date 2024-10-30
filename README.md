@@ -26,13 +26,15 @@ I am currently employed at the University of Palermo, Italy.
 I contribute to the OS community with some repositories and by giving talks and writing blog posts on my website and medium.
 
 List of my talks (Italian language):
-- [Test Driven Development con Laravel @laravelday2019](https://www.youtube.com/watch?v=UALxTYn6tB4)
-- [Creazione di package Laravel @laravelday2019](https://www.youtube.com/watch?v=0SJn6Tl-i7Y)
-- [Applicazione "Modulitiche" @laravelday2020](https://www.youtube.com/watch?v=TAszZm0m6ME&t=43s)
-- [Laravel smart APIs: filtrare dinamicamente modelli @Laravel Italia Live](https://www.youtube.com/watch?v=iMKObhTMKCk&t=6s)
-- [Alexa Skill Development con Laravel @Laravel Italia Live](https://www.youtube.com/watch?v=v0H85-tFA5k)
-- [Design Patterns: Head-first vs emergent @phpdaypug21](https://www.youtube.com/watch?v=Q9RRVOJO5Lg)
+- [Check-up cardiologico per la tua app: Pulse or not? @laravelday2024]
 - [Papà come nascono i Service Container? @laravelday2021](https://www.youtube.com/watch?v=HyOnd8wSBFg)
+- [Design Patterns: Head-first vs emergent @phpdaypug21](https://www.youtube.com/watch?v=Q9RRVOJO5Lg)
+- [Alexa Skill Development con Laravel @Laravel Italia Live](https://www.youtube.com/watch?v=v0H85-tFA5k)
+- [Laravel smart APIs: filtrare dinamicamente modelli @Laravel Italia Live](https://www.youtube.com/watch?v=iMKObhTMKCk&t=6s)
+- [Applicazione "Modulitiche" @laravelday2020](https://www.youtube.com/watch?v=TAszZm0m6ME&t=43s)
+- [Creazione di package Laravel @laravelday2019](https://www.youtube.com/watch?v=0SJn6Tl-i7Y)
+- [Test Driven Development con Laravel @laravelday2019](https://www.youtube.com/watch?v=UALxTYn6tB4)
+
 
 Follow me on:
 - My website: https://www.robertogallea.com
