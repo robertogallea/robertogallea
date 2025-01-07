@@ -19,7 +19,7 @@ My name is Roberto Gallea, I live in Italy and I am passionate about applying te
 
 I am currently employed at the University of Palermo, Italy.
 
-**Language/Runtime** : PHP, Python, Java, R, C/C++, ...
+**Language/Runtime** : PHP, Python, Java, JavaScript, R, C/C++, ...
 
 **Framework/Libraries** : Laravel, Symfony, Vue.js, React.js, Livewire, Flask, Django
 
