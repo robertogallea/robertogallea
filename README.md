@@ -26,7 +26,7 @@ I am currently employed at the University of Palermo, Italy.
 I contribute to the OS community with some repositories and by giving talks and writing blog posts on my website and medium.
 
 List of my talks (Italian language):
-- [Check-up cardiologico per la tua app: Pulse or not? @laravelday2024]
+- [Check-up cardiologico per la tua app: Pulse or not? @laravelday2024](https://www.youtube.com/watch?v=g829j34VAds)
 - [Papà come nascono i Service Container? @laravelday2021](https://www.youtube.com/watch?v=HyOnd8wSBFg)
 - [Design Patterns: Head-first vs emergent @phpdaypug21](https://www.youtube.com/watch?v=Q9RRVOJO5Lg)
 - [Alexa Skill Development con Laravel @Laravel Italia Live](https://www.youtube.com/watch?v=v0H85-tFA5k)
