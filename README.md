@@ -19,7 +19,7 @@ My name is Roberto Gallea, I live in Italy and I am passionate about applying te
 
 I am currently employed at the University of Palermo, Italy, with the following roles:
 - Identity Manager
-- Adjunct Professor of Computing Science
+- Adjunct Professor of Computer Science
 
 **Language/Runtime** : PHP, Python, Java, JavaScript, R, C/C++, ...
 
