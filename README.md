@@ -28,7 +28,9 @@ I am currently employed at the University of Palermo, Italy, with the following 
 I contribute to the OS community with some repositories and by giving talks and writing blog posts on my website and medium.
 
 List of my talks (Italian/English language):
-- Understanding Modern Identity. @phpday2026 - Not available yet
+
+- Less telepathic codebases: AI-Readability for Laravel Applications. @ipc2026 - Not available yet
+- Understanding Modern Identity. @phpday2026/@ipc2026 - Not available yet
 - Micro Monoliti in Laravel: Semplificare la Complessità con Applicazioni Federate. @laravelday2025 - Not available yet
 - [Check-up cardiologico per la tua app: Pulse or not? @laravelday2024](https://www.youtube.com/watch?v=g829j34VAds)
 - [Papà come nascono i Service Container? @laravelday2021](https://www.youtube.com/watch?v=HyOnd8wSBFg)
